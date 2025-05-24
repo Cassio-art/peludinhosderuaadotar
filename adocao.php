@@ -164,7 +164,7 @@ $resultado = $conn->query("SELECT * FROM animais");
 </head>
 <body>
 
-<a href="inicio.php">
+<a href="index.php">
     <button class="btn-voltar">Voltar ao Início</button>
 </a>
 

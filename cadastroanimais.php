@@ -1,4 +1,4 @@
-<a href="inicio.php" class="btn-voltar">← Voltar ao Início</a>
+<a href="index.php" class="btn-voltar">← Voltar ao Início</a>
 
 <?php
 include 'conexao.php';
